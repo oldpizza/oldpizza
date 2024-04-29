@@ -1,8 +1,8 @@
 
 <div align="center">🍕</div>
 <hr style="width:50%;text-align:left;margin-left:0">
-<div align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=Rongronggg9&column=-1](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" >
+<div align="right">
+  ![GitHub GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 </div>
 - 🐍 Python: Noob
 - 🦈 Docker: junior
