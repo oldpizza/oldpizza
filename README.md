@@ -1,9 +1,10 @@
 
 <div align="center">🍕</div>
 <hr style="width:50%;text-align:left;margin-left:0">
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Your alt text here">
+<div align="center">
+<img style="width:50%; align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="ok i'am coppy form there">
 </div>
+
 - 🐍 Python: Noob
 - 🦈 Docker: junior
 - 📦 JavaScript: junior
@@ -16,7 +17,6 @@
 - 🍥 OS: Dev on mac
 - 💭 Pronouns: he/him
 - 📫 E-mail: kongecho.0@gmail.com
-
 
 
 
