@@ -16,7 +16,7 @@
 - 📱 GUI: junior
 - 🍥 OS: Dev on mac
 - 💭 Pronouns: he/him
-- 📫 E-mail: kongecho.0@gmail.com
+
 
 
 
